@@ -19,3 +19,20 @@ En ekspansjons kar er en innretning for å fange opp termisk ekspansjon. Karet e
 
 # Påfylling og grovutlufting
 Får å ha noe i veske i anlegget må det bli fylt på fra noe sted, da bruker vi en vikkep. Den krever manuel håndkraft til å pumpe, men den kan få inn propylen glykol inn i systemene samt vann som vil di at den klarer å pumpe begge.
+
+# Vakuum utlufter 
+Denne komponenten skal redusere oksygenet i et et system via en pumpe, til vakuum enheten.
+
+# Propylen Glykol 30%
+Det er flytende ting som ikke fryser på null grader. Den fryser på -15 grader. Oppgaven til den flytende ting er at den skal beskytte systemet. 
+
+# Finfilter 
+Beskytter rørsystemet og de tilkoblede komponentene mot funksjonsfeil og korrosjonskader med vannets medførte partikler som rust, chips, sand og hamp.
+
+# Magnetit filter 
+Magnetisk filter som har evnen til å fjerne partikler og magnetit fra et system. Forenklet forklaring: Den fjerner metall via en magnet.
+
+# Varmebatteri 
+Vannvarmebatteri er for oppvarming av luft i ventilasjonsanlegg med rektangulære kanaler.
+
+
